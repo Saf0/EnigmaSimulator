@@ -7,8 +7,19 @@ public class test {
     public static void main(String[] args) {
         
         /*
+
+            Sample Message
+            
+            The plain text of the messages is of course in the German language, and may include 
+            abbreviations and conventions such as "X" for a space, "J" for a quotation mark or "Q" 
+            for the two characters "CH", so further interpretation and translation will be needed 
+            to produce an understandable message in English.
+            
+            ---------------------------------------------
+            
+            Operation Barbarossa, 1941
+            Sent from the Russian front on 7th July 1941
          
-            U-264 (Kapitänleutnant Hartwig Looks), 1942
             Machine Settings for Enigma I/M3
             
             Reflector:       B
